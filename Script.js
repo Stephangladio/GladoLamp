@@ -6,3 +6,4 @@
             btn.classList.toggle("active");
             ligh.classList.toggle("on");
         }
+
